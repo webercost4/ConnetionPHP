@@ -1,2 +1,2 @@
 # ConnetionPHP
-Conexão PHP - PDO
+Sistema de Conexão Simples com PHP - PDO
